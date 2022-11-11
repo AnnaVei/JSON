@@ -1,4 +1,6 @@
 {"name": "Anna",
 "age": 30,
 "pets": "cat",
-"salary": 1000}
+"salary": 1000,
+"job": "writer"
+}
