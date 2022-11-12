@@ -1,1 +1,62 @@
-{"bug_report": True}
+[
+ {
+  "ENVIRONMENT": "ID",
+  "Column3": "TITLE",
+  "iPhone 11, iOS 15.3.1": "STEPS",
+  "Column5": "ACTUAL RESULT",
+  "Column6": "EXPECTED RESULT",
+  "Column7": "SEVERITY",
+  "Column8": "PRIORITY",
+  "Column9": "ATTACHMENTS"
+ },
+ {
+  "ENVIRONMENT": "ID1",
+  "Column3": "At the open lesson screen swipe left leds forward instead of backward",
+  "iPhone 11, iOS 15.3.1": "1. Open the lesson at the Homepage\n2. Swipe left",
+  "Column5": "Swipe left moves to the previous card",
+  "Column6": "Swipe left moves to the next card in the lesson",
+  "Column7": "LOW",
+  "Column8": "P3",
+  "Column9": "https:\/\/drive.google.com\/file\/d\/10umcDfBBhrwhNlY_sqj_v2U4sicJntaf\/view?usp=sharing"
+ },
+ {
+  "ENVIRONMENT": "ID2",
+  "Column3": "Section \"About\" at the CFD page contains description only in English",
+  "iPhone 11, iOS 15.3.1": "1. Open page CFD.\n2. Tap any item from the upper feed and scroll down for description",
+  "Column5": "Description in the \"About' section of the CFD screen is written on English notwithstanding the choosen language",
+  "Column6": "\"About\" section is shown on language choosen by user",
+  "Column7": "LOW",
+  "Column8": "P3",
+  "Column9": "https:\/\/drive.google.com\/file\/d\/1E2R1jfMV5eZYEDlt1CxSlCXn1QIgK25q\/view?usp=sharing"
+ },
+ {
+  "ENVIRONMENT": "ID3",
+  "Column3": "Screen of the \"Learn how to predict trends\" goal has no button \"Leave\", only \"Continue\"",
+  "iPhone 11, iOS 15.3.1": "1. Choose \"Learn how to predict trends\" goal\n2. Complete one of the daily goals (give one right answer)\n3. See the notification",
+  "Column5": "No button \"Leave\" is available",
+  "Column6": "There is a choice to leave or to continue, with 2 corresponding buttons",
+  "Column7": "LOW",
+  "Column8": "P3",
+  "Column9": "https:\/\/drive.google.com\/file\/d\/1ceYl2EkaewtD4UgE_Oesl3Ur-TdZ4Cw8\/view?usp=sharing"
+ },
+ {
+  "ENVIRONMENT": "ID4",
+  "Column3": "At the CFD screen time gaps and real time under the diagram are mismatching",
+  "iPhone 11, iOS 15.3.1": "1. Open CFD screen\n2. Check the time gaps and real time under the diagram",
+  "Column5": "Real time and given time intervals are mismatching. When choosen 10 min changes, the real time show the changes of 10-4 mins.",
+  "Column6": "The intervals for checking the market situation are corresponding the real time",
+  "Column7": "LOW",
+  "Column8": "P3",
+  "Column9": "https:\/\/drive.google.com\/file\/d\/1RyVh7CGyy6I0QMx4LfHfKRSGD6fexz9b\/view?usp=sharing"
+ },
+ {
+  "ENVIRONMENT": "ID5",
+  "Column3": "Option \"Reminder\" leads to the settings of the device without activation of the reminder",
+  "iPhone 11, iOS 15.3.1": "1. Open Settings screen\n2. Switch on reminder",
+  "Column5": "Reminder activation leads to the settings of the device where there is no option to activate the reminder.",
+  "Column6": "The activation of the reminder leads to the corresponding section of the settings. where the user can switch on reminder",
+  "Column7": "LOW",
+  "Column8": "P3",
+  "Column9": "https:\/\/drive.google.com\/file\/d\/13H86ttlkOws3qiCuaI0h4UxnHaj-04lP\/view?usp=sharing"
+ }
+]
